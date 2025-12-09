@@ -31,11 +31,11 @@ This file contains my hardware and their specs.
 - Storage: 1TB
 
 ## PHONE
-- Model: Iphone 15 Pro
+- Model: Iphone 15 Pro Max
 - OS: IOS 26
 - CPU: Apple A17 Pro
 - RAM: 8GB
-- Storage: 512GB
+- Storage: 256GB
 
 ## Tablet
 
