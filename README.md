@@ -4,7 +4,7 @@
 [![Hirako](https://img.shields.io/badge/Hirako-141f37?style=for-the-badge)](https://hirako.vercel.app)
 
 
-I'm SI SU (you probably known me as Hirako), a 17 yo student from Japan 🇯🇵. I started programming since my 10 yo.
+I'm Tamey, a 16 yo student. I started programming since my 10 yo.
 
 [My hardware](Hardware.md) &bull; [Self-hosted Stuff](Self-hosted_Stuff.md) &bull; [VPS Specs](VPS_Specs.md)
 
