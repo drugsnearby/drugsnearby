@@ -53,7 +53,7 @@ I'm Tamey, a 16 yo student. I started programming since my 10 yo.
 
 ---
 
-[![Tenshii's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lazysisu&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Tenshii's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tameyweed&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
