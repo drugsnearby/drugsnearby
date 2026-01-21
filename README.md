@@ -4,7 +4,7 @@
 [![Hirako](https://img.shields.io/badge/Tamey-141f37?style=for-the-badge)](https://sisu.is-a.dev)
 
 
-I'm Tamey, a 17 yo student. I started programming since my 10 yo.
+I'm Carve, a 16 yo student. I started programming since my 10 yo.
 
 [My hardware](Hardware.md) &bull; [Self-hosted Stuff](Self-hosted_Stuff.md) &bull; [VPS Specs](VPS_Specs.md)
 
