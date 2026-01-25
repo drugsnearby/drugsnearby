@@ -1,7 +1,7 @@
 # Hi! 👋 <img src="https://komarev.com/ghpvc/?username=hirwko&style=for-the-badge&base=2615" align="right" />
 
 [![Miwa.lol/cat](https://img.shields.io/badge/my%20socials-miwa.lol%2Fcat-0e0d26?style=for-the-badge)](https://miwa.lol/cat)
-[![Hirako](https://img.shields.io/badge/Tamey-141f37?style=for-the-badge)](https://sisu.is-a.dev)
+[![Hirako](https://img.shields.io/badge/carve-141f37?style=for-the-badge)](https://sisu.is-a.dev)
 
 
 I'm Carve, a 16 yo student. I started programming since my 10 yo.
